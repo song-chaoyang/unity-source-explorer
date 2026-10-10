@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Packaging output
+dist/
+*.skill
+
+# OS / editor
+.DS_Store
